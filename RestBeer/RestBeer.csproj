@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BeerLib">
+      <HintPath>..\..\BeerLib\BeerLib\bin\Debug\netcoreapp3.1\BeerLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
